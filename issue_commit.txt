@@ -1,1 +1,3 @@
-issue_commit 기록 연결하기!
+issue_commit 기록 연결하기!!!
+그리고 squash 연결하기
+squash 하나 더 연결하기
