@@ -1,0 +1,3 @@
+this is squash
+this is squash2
+this is squash3
